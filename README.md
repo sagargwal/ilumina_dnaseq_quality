@@ -26,7 +26,7 @@ FasterQC offers several functionalities to cater to different quality analysis n
 
 ## Contribution
 
-FasterQC is an ongoing project, and contributions from the community are highly appreciated. If you have suggestions, feature requests, or encounter any issues while using FasterQC, please feel free to raise them in the [Issues section](link_to_issues) of the GitHub repository. Additionally, contributions such as bug fixes, feature enhancements, or documentation improvements can be submitted through pull requests.
+FasterQC is an ongoing project, and contributions from the community are highly appreciated. If you have suggestions, feature requests, or encounter any issues while using FasterQC, please feel free to raise them in the email sagargwal34@gmail.com of the GitHub repository. Additionally, contributions such as bug fixes, feature enhancements, or documentation improvements can be submitted through pull requests.
 
 ## License
 
